@@ -2,3 +2,4 @@
 A sample repo for practicing how to create Pull Requests
 it is me
 intro
+resolved
